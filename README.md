@@ -1,5 +1,7 @@
 # ConstantValueTest
 
+[![DOI](https://zenodo.org/badge/474304529.svg)](https://zenodo.org/badge/latestdoi/474304529)
+
 The repo holds several scripts to:
 
 - make synthetic data based on AR model
